@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComponentesBasicos</string>
+    <string name="titulo_principal">Jogo Do Dado</string>
+    <string name="Valor">Valor:</string>
+    <string name="Valor_do_dado">Valor do dado = %d</string>
+    <string name="jogar_dado">Jogar Dado</string>
+    <string name="Numero_repetido">Número repetido</string>
+    <string name="valor_repetido_foi_d">Valor repetido foi: %d</string>
+</resources>
